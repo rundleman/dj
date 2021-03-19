@@ -56,7 +56,7 @@ django-celery-results==1.1.2
 django-grappelli==2.13.2
 django-templated-mail==1.1.1
 django-timezone-field==3.0
-djangorestframework==3.9.4
+djangorestframework==3.11.2
 djangorestframework-simplejwt==4.3.0
 djet==0.2.2
 -e git+git@github.com:sunscrapers/djoser.git@de199e9997bb59cc0df09de8b09d0af40be408bb#egg=djoser
